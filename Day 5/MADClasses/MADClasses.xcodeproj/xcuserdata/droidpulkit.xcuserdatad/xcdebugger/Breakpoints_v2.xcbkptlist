@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MADClasses/PermanentEmployee.swift"
+            timestampString = "539281312.508855"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MADClasses.PermanentEmployee.deinit"
+                  moduleName = "MADClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/droidpulkit/Coding/MAD3004W18/Day%205/MADClasses/MADClasses/PermanentEmployee.swift"
+                  timestampString = "539281312.991841"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MADClasses.PermanentEmployee.__deallocating_deinit"
+                  moduleName = "MADClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/droidpulkit/Coding/MAD3004W18/Day%205/MADClasses/MADClasses/PermanentEmployee.swift"
+                  timestampString = "539281312.993654"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MADClasses.PermanentEmployee.__allocating_init(ID: Swift.Int, NM: Swift.String, pay: Swift.Double) -&gt; MADClasses.PermanentEmployee"
+                  moduleName = "MADClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/droidpulkit/Coding/MAD3004W18/Day%205/MADClasses/MADClasses/PermanentEmployee.swift"
+                  timestampString = "539281312.995508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MADClasses.PermanentEmployee.init(ID: Swift.Int, NM: Swift.String, pay: Swift.Double) -&gt; MADClasses.PermanentEmployee"
+                  moduleName = "MADClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/droidpulkit/Coding/MAD3004W18/Day%205/MADClasses/MADClasses/PermanentEmployee.swift"
+                  timestampString = "539281312.997367"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MADClasses/Employee.swift"
+            timestampString = "539281312.508913"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MADClasses.Employee.deinit"
+                  moduleName = "MADClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/droidpulkit/Coding/MAD3004W18/Day%205/MADClasses/MADClasses/Employee.swift"
+                  timestampString = "539281313.003099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MADClasses.Employee.__deallocating_deinit"
+                  moduleName = "MADClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/droidpulkit/Coding/MAD3004W18/Day%205/MADClasses/MADClasses/Employee.swift"
+                  timestampString = "539281313.004899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
